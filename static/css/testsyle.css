@@ -1,0 +1,27 @@
+body
+{
+  background-color: lightblue;
+  font-family: calibri;
+}
+#questionBlock
+{
+  boder:2px solid navy;
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+  background-color: pink;
+}
+#questionBlock div
+{
+  margin: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+h1
+{
+  text-align: center;
+}
+#rahul input
+{
+  background-color: red;
+}
